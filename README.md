@@ -35,9 +35,10 @@ title: Dengue outbreak prediction in Sri Lanka using machine learning techniques
 
 1. [Abstract](#abstract)
 2. [Related works](#related-works)
-3. [Conclusion](#conclusion)
-4. [Publications](#publications)
-5. [Links](#links)
+3. [Experiment Setup and Implementation](#experiment-setup-and-implementation)
+4. [Conclusion](#conclusion)
+5. [Publications](#publications)
+6. [Links](#links)
 
 ---
 
@@ -66,6 +67,13 @@ Temporal dynamics analysis involves a multi-stage machine learning approach to d
 
 ### Mathematical Models for Dengue Incidence Prediction
 Machine learning techniques facilitate the development of mathematical models that predict dengue incidence based on weather data and population density. These models offer precise estimates of dengue cases, aiding in resource allocation and proactive public health planning.
+
+## Experiment Setup and Implementation
+Our research focuses on developing a predictive model for dengue outbreaks in Sri Lanka, integrating machine learning techniques with microbiological data. By analyzing viral strains and genetic sequences, we aim to enhance the accuracy of outbreak predictions and identify potential risk factors associated with specific strains.
+
+As our intial step, we have collected and preprocessed data from various sources, including environmental factors, historical dengue incidence rates. We have developed a data pipeline to streamline the data processing and feature extraction process, enabling us to generate comprehensive datasets for training and testing our models.
+
+![DataPipeline-Page](https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/assets/73680106/56f9628d-2b30-473d-919a-97ce70cb5ed1)
 
 ## Conclusion
 Our project highlights the critical importance of incorporating microbiological data alongside traditional environmental factors in predicting and managing dengue outbreaks. Through the integration of genetic insights and machine learning techniques, we aim to enhance the accuracy of outbreak predictions and develop robust classification frameworks for discerning viral strains.
