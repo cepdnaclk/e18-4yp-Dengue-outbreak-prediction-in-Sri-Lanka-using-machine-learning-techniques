@@ -51,7 +51,10 @@ This is a sample image, to show how to add images to your page. To learn more op
 ## Abstract
 This research focuses on the prediction of dengue fever outbreaks, which have become a significant public health concern in many tropical and subtropical regions worldwide. The study explores the complex and dynamic nature of the disease, considering various factors that influence its spread. By utilizing vector populations, urbanization, climate parameters, and other relevant factors, the research aims to develop effective strategies for early detection and prevention of dengue outbreaks in Sri Lanka with the aid of machine learning techniques
 
-![fig1](https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/assets/97779686/838637a5-5e81-4939-b1b4-c304b9d8b1e6)
+<br> ![image info](./images/WorldwideDendueCases.png) <br>
+
+This image depicts the dengue trend in sri lanka during 1989 to 2021
+<br> ![image info](./images/DengueCases.png) <br>
 
 ## Related works
 Here are a few related works we discovered after reviewing various research pages.
@@ -73,7 +76,7 @@ Our research focuses on developing a predictive model for dengue outbreaks in Sr
 
 As our intial step, we have collected and preprocessed data from various sources, including environmental factors, historical dengue incidence rates. We have developed a data pipeline to streamline the data processing and feature extraction process, enabling us to generate comprehensive datasets for training and testing our models.
 
-![DataPipeline-Page](https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/assets/73680106/56f9628d-2b30-473d-919a-97ce70cb5ed1)
+<br> ![image info](./images/DataPipeline.jpg) <br>
 
 ## Conclusion
 Our project highlights the critical importance of incorporating microbiological data alongside traditional environmental factors in predicting and managing dengue outbreaks. Through the integration of genetic insights and machine learning techniques, we aim to enhance the accuracy of outbreak predictions and develop robust classification frameworks for discerning viral strains.
