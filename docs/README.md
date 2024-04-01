@@ -15,7 +15,7 @@ title: Dengue outbreak prediction in Sri Lanka using machine learning techniques
 
 - e18181, K.M.S.L.Konara, [email](mailto:e18181@eng.pdn.ac.lk)
 - e18224, G.D.R.Mihiranga, [email](mailto:e18224@eng.pdn.ac.lk)
-- e18368, H.U.Uduwanage H.U, [email](mailto:e18368@eng.pdn.ac.lk)
+- e18368, H.U.Uduwanage, [email](mailto:e18368@eng.pdn.ac.lk)
 
 #### Supervisors
 
